@@ -3,6 +3,7 @@
 - 🏡 From Slovakia 🇸🇰 and lived in France 🇫🇷/Switzerland 🇨🇭 
 - 📍 Now in San Francisco 🇺🇸
 - 🧑‍💻 Data Science/Analysis, AI developer & Python Developer
+- 🧑‍💼 Worked: CERN (Geneva, Switzerland), Artemidae (Nyon, Switzerland), Data Wheel Analytics (San Francisco, USA)
 - 📫 rharakaly@sfsu.edu
 
 <!---
