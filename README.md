@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobertSparadrap
-- 🧑‍🎓 I'm a Computer Science Student at San Francisco State University 🌉🐊  
+- 🧑‍🎓 Computer Science Student at San Francisco State University 🌉🐊  
 - 🏡 From Slovakia 🇸🇰 and lived in France 🇫🇷/Switzerland 🇨🇭 
 - 📍 Now in San Francisco 🇺🇸
 - 🧑‍💻 Data Science/Analysis, AI developer & Python Developer
