@@ -3,7 +3,7 @@
 - 🏡 From Slovakia 🇸🇰 and lived in France 🇫🇷/Switzerland 🇨🇭 
 - 🧑‍💻 Data Science/Analysis, AI developer & Python Developer
 - 🧑‍💼 Worked: CERN (Geneva, Switzerland), Artemidae (Delaware, USA)
-- 📫 rharakaly@sfsu.edu
+- 📫 robert.harakaly.jr@gmail.com
 
 <!---
 RobertSparadrap/RobertSparadrap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
